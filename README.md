@@ -1,2 +1,5 @@
-# sol_fizzbuzz
-Fizzbuzz program written in python/rust/anchor for solana blockchain
+# fizzbuzz
+
+This project was created by Seahorse 0.2.7.
+
+To get started, just add your code to **programs_py/fizzbuzz.py** and run `seahorse build`.
